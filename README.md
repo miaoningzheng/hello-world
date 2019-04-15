@@ -1,4 +1,4 @@
 # hello-world
-My first repository
 
-# This is my first time to learn on Github. Good luck to me!
+Hello everyone!
+I am new here. I'd like to share what i know with you.
